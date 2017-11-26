@@ -18,6 +18,6 @@ more blah blah
 dee blah
 
 here is a link
-to [heading](#hello)
+to [heading](#Hello)
 
 # LAST
