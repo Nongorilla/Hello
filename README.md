@@ -1,3 +1,5 @@
+go to [last](#last)
+
 # Hello
 Samples
 L3
@@ -16,4 +18,6 @@ more blah blah
 dee blah
 
 here is a link
-to [heading](#Hello)
+to [heading](#hello)
+
+# LAST
