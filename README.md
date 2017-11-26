@@ -22,7 +22,7 @@ dee blah
 here is a link 
 to [heading](#Hello top)
 
-to [heading](#Hello-top)
+to [heading](#hello)
 
 to [heading](#hello-top)
 
