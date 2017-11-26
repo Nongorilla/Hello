@@ -2,7 +2,7 @@
 Samples
 L3
 
-## Section AB
+## SectionAB
 
 ### subsection
 
@@ -16,4 +16,4 @@ more blah blah
 dee blah
 
 here is a link
-to [heading](#Section-AB)
+to [heading](#SectionAB)
